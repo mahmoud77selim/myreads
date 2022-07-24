@@ -18,9 +18,7 @@ git clone https://gitlab.com/mahmoud77selim/myreads.git
 ```bash
 cd myreads
 ```
-```bash
-cp .env.example .env
-```
+
 ```bash
 yarn
 ```
